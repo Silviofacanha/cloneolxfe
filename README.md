@@ -2,7 +2,7 @@
 
 ## Desenvolvido em React JS
 
-### Utilizando: Redux e Router
+### Utilizando: Redux e Router - Node js Versão _16.x_
 
 Projeto para treinamento no curso *Desenvolvedor FaullStack JS*
 Curso da (Soitech)(https://www.soitech.com.br/)
@@ -17,7 +17,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+#### `npm run start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
